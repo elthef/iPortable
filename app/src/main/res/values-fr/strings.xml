@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wifi_No_Internet</string>
+    <string name="sScanTitle">Résultats du scan</string>
+    <string name="sWifiTitle">Gestion du Wifi</string>
+    <string name="sSetHotSpot">Activer/desactiver HotSpot</string>
+    <string name="sSearchIP">Scan appareils wifi</string>
+    <string name="sDeviceTitle">Appareil de mesure</string>
+    <string name="sPingAction">Test de connexion</string>
+    <string name="sPortTitle">Port Wifi</string>
+    <string name="sIPTitle">Adresse IP</string>
+    <string name="sName">Nom</string>
+    <string name="sAge">Age</string>
+    <string name="sSize">Taille</string>
+    <string name="sLastWeigh">Dernier poids</string>
+    <string name="scurrentwheigh">Poids actuel</string>
+    <string name="sweighTitle">Gestion de la pesée</string>
+    <string name="sTar">TAR</string>
+    <string name="smaintitle">Application de pesée</string>
+    <string name="swelcome">Bienvenue</string>
+    <string name="sExplanation">Voici le texte d explications\n*\n*\nil est vraiment tres long\n*\n*\n*\n Mais ce qui est interessant avec lui c est qu on peut le scroll\n*\n It is true that \n\n Mais c est vrai qu il est gros\nTrres gros\nTest\n really big big \n big \n big \n big</string>
+    <string name="ssettingtitle">Paramètres de connexion</string>
+    <string name="sSaveIPPort">Save</string>
+    <string name="ScoArg">Pad principal</string>
+    <string name="scoXen1">Pad 2</string>
+    <string name="sCoXen2">Pad 3</string>
+    <string name="sCoXen3">Pad 4</string>
+    <string name="sConnected">Appareil connecté</string>
+    <string name="sDisconnected">Appareil deconnecté</string>
+    <string name="sglobalInfo">Informations générales</string>
+    <string name="sWInfos">Informations de pesée</string>
+    <string name="sLastWDate">Date de la dernière pesée</string>
+    <string name="sConnection">Tests de connexion</string>
+    <string name="sScan">Analyse en cours</string>
+    <string name="sTarAct">Tar en cours</string>
+    <string name="sSave">IP et Port enregistrés</string>
+</resources>

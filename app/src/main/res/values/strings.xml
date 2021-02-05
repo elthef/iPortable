@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Wifi_No_Internet</string>
+    <string name="sScanTitle">Scan Results</string>
+    <string name="sWifiTitle">About the Wifi</string>
+    <string name="sSetHotSpot">Enable Wifi</string>
+    <string name="sSearchIP">Scan Wifi</string>
+    <string name="sDeviceTitle">About the device</string>
+    <string name="sPingAction">Test co.</string>
+    <string name="sPortTitle">Wifi Port</string>
+    <string name="sIPTitle">IP adress (Pad1, Pad2, Pad3, Pad 4)</string>
+    <string name="sName">Name</string>
+    <string name="sAge">Age</string>
+    <string name="sSize">Size</string>
+    <string name="sLastWeigh">Last weigh</string>
+    <string name="scurrentwheigh">Current Weigh</string>
+    <string name="sweighTitle">Weighing Patient</string>
+    <string name="sTar">TAR</string>
+    <string name="smaintitle">Weighing Application</string>
+    <string name="swelcome">Welcome to your app</string>
+    <string name="sExplanation">Here is the explanation text\n*\n*\n This text can explain \n How the pp works\n*\n*\n*\n You can scroll it\n*\n It can be \n\n a really big text\n*\n*\n* \n*****</string>
+    <string name="ssettingtitle">Connection settings</string>
+    <string name="sSaveIPPort">Save</string>
+    <string name="ScoArg">Pad 1</string>
+    <string name="scoXen1">Pad 2</string>
+    <string name="sCoXen2">Pad 3</string>
+    <string name="sCoXen3">Pad 4</string>
+    <string name="sConnected">Device connected</string>
+    <string name="sglobalInfo">Patient</string>
+    <string name="sWInfos">Weighting informations</string>
+    <string name="sLastWDate">Date</string>
+    <string name="sDisconnected">Device not connected</string>
+    <string name="sConnection">Connection tests</string>
+    <string name="sScan">Scan in progress</string>
+    <string name="sTarAct">Tar in progress</string>
+    <string name="sSave">IP and Port saved</string>
+</resources>
